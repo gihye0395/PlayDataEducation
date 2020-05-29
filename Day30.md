@@ -9,7 +9,6 @@
 
 
 
-Play_Educate!#
 
 #### 테이블
 
